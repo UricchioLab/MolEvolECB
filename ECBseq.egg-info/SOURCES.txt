@@ -1,0 +1,8 @@
+README.md
+setup.py
+ECBseq.egg-info/PKG-INFO
+ECBseq.egg-info/SOURCES.txt
+ECBseq.egg-info/dependency_links.txt
+ECBseq.egg-info/top_level.txt
+src/ECBseq/ECB.py
+src/ECBseq/__init__.py
